@@ -1,0 +1,43 @@
+Fold #1
+- Training cases:
+  '05L', '06R', '06L', '07R', '07L', '08R', '08L', '09R', '09L', '10R', '10L', '11R', '11L', '12R', '12L', '13R', '13L', '14R', '14L'
+
+- Validation cases:
+  '04L', '05R'
+
+- Test cases:
+  '01R', '01L', '02R', '02L', '03R', '03L', '04R'
+
+
+Fold #2
+- Training cases:
+  '09R', '09L', '10R', '10L', '11R', '11L', '12R', '12L', '13R', '13L', '14R', '14L', '01R', '01L', '02R', '02L', '03R', '03L', '04R' 
+
+- Validation cases:
+  '08R', '08L'
+
+- Test cases:
+  '04L', '05R', '05L', '06R', '06L', '07R', '07L'
+
+
+Fold #3
+- Training cases:
+  '12L', '13R', '13L', '14R', '14L', '01R', '01L', '02R', '02L', '03R', '03L', '04R', '04L', '05R', '05L', '06R', '06L', '07R', '07L'
+
+- Validation cases:
+  '11L', '12R'
+
+- Test cases:
+  '08R', '08L', '09R', '09L', '10R', '10L', '11R'
+
+
+Fold #4
+- Training cases:
+  '02R', '02L', '03R', '03L', '04R', '04L', '05R', '05L', '06R', '06L', '07R', '07L', '08R', '08L', '09R', '09L', '10R', '10L', '11R'
+
+- Validation cases:
+  '01R', '01L' 
+
+- Test cases:
+  '11L', '12R', '12L', '13R', '13L', '14R', '14L'
+  
