@@ -10,7 +10,7 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
 
 The materials in this repository are organized as follows:
 
-- `code`: Code required to train and test our model.
+- `code`: Code required to train and test our model. (*In Progress)
 
 - `folds_constitution`: Since there is no explicit division between training and test sets for the STARE and CHASE_DB1 databases, we used *5*-fold and *4*-fold cross-validation, respectively, to evaluate the results in these cases. Here we show the constitution of the folds, so that future works can replicate our evaluation conditions.
 
@@ -22,4 +22,4 @@ The materials in this repository are organized as follows:
 
 ## Contact
 
-For information related with the paper, please feel free to contact me via e-mail: americofmoliveira@gmail.com
+For information related with the paper, please feel free to contact me (americofmoliveira@gmail.com) or Prof. Carlos A. Silva (csilva@dei.uminho.pt).
