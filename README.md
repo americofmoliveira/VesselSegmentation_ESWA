@@ -16,7 +16,7 @@ The materials in this repository are organized as follows:
 
 - `image_level_results`: Evaluation metrics for each image in terms of Sensitivity, Specificity, Accuracy, Area under the ROC curve (AUC), and Matthews correlation coefficient (MCC).
 
-- `resources`: Mask, manual annotation, probability map outputted by the model, and final binary segmentation for each image. 
+- `resources`: Mask, probability map outputted by the model, and final binary segmentation for each image. 
 
 - `statistical_comparison`: Statistical comparison between our method and other state-of-the-art works that have made their segmentations publicly available.
 
