@@ -8,8 +8,6 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
 
 ## Overview
 
-The proposed approach can be divided into four main stages: input building through the SWT, patch extraction, classification via FCN, and multiple prediction.
-
 ![Pipeline](https://github.com/americofmoliveira/VesselSegmentation_ESWA/blob/master/resources/architecture/1a.png)
 
 ![Architecture](https://github.com/americofmoliveira/VesselSegmentation_ESWA/blob/master/resources/architecture/1b.png)
