@@ -26,7 +26,7 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
     <td class="tg-lm6i">AUC</td>
   </tr>
   <tr>
-    <td class="tg-7x02">Soares <span style="font-style:italic">et al.</span> [1]</td>
+    <td class="tg-7x02">**Soares <span style="font-style:italic">et al.</span> [1]</td>
     <td class="tg-akyt">0.7332</td>
     <td class="tg-akyt">0.9782</td>
     <td class="tg-akyt">0.9466</td>
@@ -68,8 +68,6 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
     <td class="tg-qpkk">0.9821</td>
   </tr>
 </table>
-
-| Soares et al. [1]    | 0.7332 | 0.9782 | 0.9466  | 0.9614  
 
 ## Contents
 
