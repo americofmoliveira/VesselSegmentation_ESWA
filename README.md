@@ -16,53 +16,20 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
 
 <table class="tg">
   <tr>
-    <th class="tg-7btt" rowspan="2"><br>Method</th>
+    <th class="tg-7btt" rowspan="2"><br>Method (year)</th>
     <th class="tg-7btt" colspan="4">DRIVE</th>
-    <th class="tg-7btt" colspan="4">STARE</th>
-    <th class="tg-7btt" colspan="4">CHASE_DB1</th>
   </tr>
   <tr>
     <td class="tg-7btt">Sn</td>
     <td class="tg-7btt">Sp</td>
     <td class="tg-7btt">Acc</td>
     <td class="tg-7btt">AUC</td>
-    <td class="tg-7btt">Sn</td>
-    <td class="tg-7btt">Sp</td>
-    <td class="tg-7btt">Acc</td>
-    <td class="tg-7btt">AUC</td>
-    <td class="tg-7btt">Sn</td>
-    <td class="tg-7btt">Sp</td>
-    <td class="tg-7btt">Acc</td>
-    <td class="tg-7btt">AUC</td>
-  </tr>
-  <tr>
-    <td class="tg-dvpl">Staal <span style="font-style:italic">et al.</span> (2004)</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">0.9441</td>
-    <td class="tg-c3ow">0.9520</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
   </tr>
   <tr>
     <td class="tg-dvpl">Mendonça and Campilho (2006)</td>
     <td class="tg-us36">0.7344</td>
     <td class="tg-us36">0.9764</td>
     <td class="tg-us36">0.9452</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-us36">0.6996</td>
-    <td class="tg-us36">0.9730</td>
-    <td class="tg-us36">0.9440</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
     <td class="tg-c3ow">-</td>
   </tr>
   <tr>
@@ -71,14 +38,6 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
     <td class="tg-us36">0.9782</td>
     <td class="tg-us36">0.9466</td>
     <td class="tg-us36">0.9614</td>
-    <td class="tg-us36">0.7207</td>
-    <td class="tg-us36">0.9747</td>
-    <td class="tg-us36">0.9480</td>
-    <td class="tg-us36">0.9671</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
   </tr>
   <tr>
     <td class="tg-dvpl">Marin <span style="font-style:italic">et al.</span> (2011)</td>
@@ -86,14 +45,6 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
     <td class="tg-us36">0.9801</td>
     <td class="tg-us36">0.9452</td>
     <td class="tg-us36">0.9588</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
   </tr>
   <tr>
     <td class="tg-dvpl">Fraz <span style="font-style:italic">et al.</span> (2012)</td>
@@ -101,14 +52,6 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
     <td class="tg-us36">0.9807</td>
     <td class="tg-us36">0.9480</td>
     <td class="tg-us36">0.9747</td>
-    <td class="tg-us36">0.7548</td>
-    <td class="tg-us36">0.9763</td>
-    <td class="tg-us36">0.9534</td>
-    <td class="tg-us36">0.9768</td>
-    <td class="tg-us36">0.7224</td>
-    <td class="tg-us36">0.9711</td>
-    <td class="tg-us36">0.9469</td>
-    <td class="tg-us36">0.9712</td>
   </tr>
   <tr>
     <td class="tg-dvpl">Azzopardi <span style="font-style:italic">et al.</span> (2015)</td>
@@ -116,14 +59,6 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
     <td class="tg-us36">0.9704</td>
     <td class="tg-us36">0.9442</td>
     <td class="tg-us36">0.9614</td>
-    <td class="tg-us36">0.7716</td>
-    <td class="tg-us36">0.9701</td>
-    <td class="tg-us36">0.9497</td>
-    <td class="tg-us36">0.9563</td>
-    <td class="tg-us36">0.7585</td>
-    <td class="tg-us36">0.9587</td>
-    <td class="tg-us36">0.9387</td>
-    <td class="tg-us36">0.9487</td>
   </tr>
   <tr>
     <td class="tg-dvpl">Roychowdhury <span style="font-style:italic">et al.</span> (2015)</td>
@@ -131,14 +66,6 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
     <td class="tg-p8bj">0.9830</td>
     <td class="tg-us36">0.9519</td>
     <td class="tg-us36">0.9620</td>
-    <td class="tg-us36">0.7719</td>
-    <td class="tg-us36">0.9726</td>
-    <td class="tg-us36">0.9515</td>
-    <td class="tg-us36">0.9688</td>
-    <td class="tg-us36">0.7201</td>
-    <td class="tg-us36">0.9824</td>
-    <td class="tg-us36">0.9530</td>
-    <td class="tg-us36">0.9532</td>
   </tr>
   <tr>
     <td class="tg-dvpl">Zhao <span style="font-style:italic">et al.</span> (2015)</td>
@@ -146,14 +73,6 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
     <td class="tg-us36">0.9820</td>
     <td class="tg-us36">0.9540</td>
     <td class="tg-us36">0.8620</td>
-    <td class="tg-us36">0.7800</td>
-    <td class="tg-us36">0.9780</td>
-    <td class="tg-us36">0.9560</td>
-    <td class="tg-us36">0.8740</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
   </tr>
   <tr>
     <td class="tg-dvpl">Li <span style="font-style:italic">et al.</span> (2016)</td>
@@ -161,14 +80,6 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
     <td class="tg-us36">0.9816</td>
     <td class="tg-us36">0.9527</td>
     <td class="tg-us36">0.9738</td>
-    <td class="tg-us36">0.7726</td>
-    <td class="tg-us36">0.9844</td>
-    <td class="tg-us36">0.9628</td>
-    <td class="tg-us36">0.9879</td>
-    <td class="tg-us36">0.7507</td>
-    <td class="tg-us36">0.9793</td>
-    <td class="tg-us36">0.9581</td>
-    <td class="tg-us36">0.9716</td>
   </tr>
   <tr>
     <td class="tg-dvpl">Zhang <span style="font-style:italic">et al.</span> (2016)</td>
@@ -176,14 +87,6 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
     <td class="tg-us36">0.9725</td>
     <td class="tg-us36">0.9476</td>
     <td class="tg-us36">0.9636</td>
-    <td class="tg-us36">0.7791</td>
-    <td class="tg-us36">0.9758</td>
-    <td class="tg-us36">0.9554</td>
-    <td class="tg-us36">0.9748</td>
-    <td class="tg-us36">0.7626</td>
-    <td class="tg-us36">0.9661</td>
-    <td class="tg-us36">0.9452</td>
-    <td class="tg-us36">0.9606</td>
   </tr>
   <tr>
     <td class="tg-dvpl">Liskowski and Krawiec (2016)</td>
@@ -191,14 +94,6 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
     <td class="tg-us36">0.9806</td>
     <td class="tg-us36">0.9515</td>
     <td class="tg-us36">0.9710</td>
-    <td class="tg-us36">0.8145</td>
-    <td class="tg-p8bj">0.9866</td>
-    <td class="tg-p8bj">0.9696</td>
-    <td class="tg-us36">0.9880</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">-</td>
   </tr>
   <tr>
     <td class="tg-dvpl">Orlando <span style="font-style:italic">et al.</span> (2017)</td>
@@ -206,14 +101,6 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
     <td class="tg-us36">0.9684</td>
     <td class="tg-us36">0.9454</td>
     <td class="tg-us36">0.9506</td>
-    <td class="tg-us36">0.7680</td>
-    <td class="tg-us36">0.9738</td>
-    <td class="tg-us36">0.9519</td>
-    <td class="tg-us36">0.9570</td>
-    <td class="tg-us36">0.7565</td>
-    <td class="tg-us36">0.9655</td>
-    <td class="tg-us36">0.9467</td>
-    <td class="tg-us36">0.9478</td>
   </tr>
   <tr>
     <td class="tg-dvpl">Zhang <span style="font-style:italic">et al.</span> (2017)</td>
@@ -221,14 +108,6 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
     <td class="tg-us36">0.9712</td>
     <td class="tg-us36">0.9466</td>
     <td class="tg-us36">0.9703</td>
-    <td class="tg-us36">0.7882</td>
-    <td class="tg-us36">0.9729</td>
-    <td class="tg-us36">0.9547</td>
-    <td class="tg-us36">0.9740</td>
-    <td class="tg-us36">0.7644</td>
-    <td class="tg-us36">0.9716</td>
-    <td class="tg-us36">0.9502</td>
-    <td class="tg-us36">0.9706</td>
   </tr>
   <tr>
     <td class="tg-dvpl">This work (2018)</td>
@@ -236,14 +115,6 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
     <td class="tg-us36">0.9804</td>
     <td class="tg-p8bj">0.9576</td>
     <td class="tg-p8bj">0.9821</td>
-    <td class="tg-p8bj">0.8315</td>
-    <td class="tg-us36">0.9858</td>
-    <td class="tg-us36">0.9694</td>
-    <td class="tg-p8bj">0.9905</td>
-    <td class="tg-p8bj">0.7779</td>
-    <td class="tg-p8bj">0.9864</td>
-    <td class="tg-p8bj">0.9653</td>
-    <td class="tg-p8bj">0.9855</td>
   </tr>
 </table>
 
