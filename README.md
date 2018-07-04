@@ -12,8 +12,16 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
 
 ![Architecture](https://github.com/americofmoliveira/VesselSegmentation_ESWA/blob/master/resources/architecture/1b.png)
 
-## Comparison with the state-of-the-art
-
+## Results
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-lm6i{font-weight:bold;font-size:11px;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-7x02{font-size:11px;border-color:inherit;text-align:right;vertical-align:top}
+.tg .tg-akyt{font-size:11px;border-color:inherit;vertical-align:top}
+.tg .tg-qpkk{font-weight:bold;font-size:11px;border-color:inherit;vertical-align:top}
+</style>
 <table class="tg">
   <tr>
     <th class="tg-lm6i" rowspan="2"><br>Method (year)</th>
