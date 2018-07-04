@@ -132,7 +132,7 @@ The proposed method was evaluated in three databases: [DRIVE](https://www.isi.uu
 
 <table class="tg">
   <tr>
-    <th class="tg-lm6i" col width="130" rowspan="2"><br>Method </th>
+    <th class="tg-lm6i" col width="230" rowspan="2"><br>Method </th>
     <th class="tg-lm6i" colspan="4">CHASE_DB1</th>
   </tr>
   <tr>
