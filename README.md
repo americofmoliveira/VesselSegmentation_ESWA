@@ -150,7 +150,7 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
     <td class="tg-akyt">.9532</td>
   </tr>
   <tr>
-    <td class="tg-7x02"><div align="left">>Li et al. [4]</td>
+    <td class="tg-7x02"><div align="left">Li et al. [4]</td>
     <td class="tg-akyt">.7507</td>
     <td class="tg-qpkk">.9793</td>
     <td class="tg-akyt">.9581</td>
@@ -159,15 +159,15 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
   <tr>
     <td class="tg-7x02"><div align="left">Zhang et al. [6]</td>
     <td class="tg-akyt">.7644</td>
-    <td class="tg-akyt"><b>.9716</td>
-    <td class="tg-akyt"><b>.9502</td>
+    <td class="tg-akyt">.9716</td>
+    <td class="tg-akyt">.9502</td>
     <td class="tg-akyt">.9706</td>
   </tr>
   <tr>
     <td class="tg-7x02"><div align="left">This work</td>
     <td class="tg-qpkk"><b>.7779</td>
-    <td class="tg-akyt">.9864</td>
-    <td class="tg-qpkk">.9653</td>
+    <td class="tg-akyt"><b>.9864</td>
+    <td class="tg-qpkk"><b>.9653</td>
     <td class="tg-qpkk"><b>.9855</td>
   </tr>
 </table>
