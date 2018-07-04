@@ -12,6 +12,18 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
 
 ![Architecture](https://github.com/americofmoliveira/VesselSegmentation_ESWA/blob/master/resources/architecture/1b.png)
 
+## Comparison with the state-of-the-art
+
+| ---------:|
+| DRIVE     |
+| --------- |:-------------:| -----:|
+| Tables    | Are           | Cool  |
+| --------- |:-------------:| -----:|
+| col 3 is  | right-aligned | $1600 |
+| col 2 is  | centered      |   $12 |
+| zebra s   | are neat      |    $1 |
+
+
 ## Contents
 
 The materials in this repository are organized as follows:
