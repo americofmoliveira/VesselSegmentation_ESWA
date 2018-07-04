@@ -149,7 +149,7 @@ The proposed method was evaluated in three databases: [DRIVE](https://www.isi.uu
     <td class="tg-akyt">.9712</td>
   </tr>
   <tr>
-    <td class="tg-7x02"><div align="left">Roychowdhury et al. [3]</td>
+    <td class="tg-7x02"><div align="left">Roychowdhury et al. [3]    </td>
     <td class="tg-akyt">.7201</td>
     <td class="tg-akyt">.9824</td>
     <td class="tg-akyt">.9530</td>
