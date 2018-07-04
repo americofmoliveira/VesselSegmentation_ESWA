@@ -26,46 +26,46 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
     <td class="tg-lm6i">AUC</td>
   </tr>
   <tr>
-    <td class="tg-7x02"><b>Soares</b> et al.</span> [1]</td>
-    <td class="tg-akyt">0.7332</td>
-    <td class="tg-akyt">0.9782</td>
-    <td class="tg-akyt">0.9466</td>
-    <td class="tg-akyt">0.9614</td>
+    <td class="tg-7x02">Soares et al.[1]</td>
+    <td class="tg-akyt">.7332</td>
+    <td class="tg-akyt">.9782</td>
+    <td class="tg-akyt">.9466</td>
+    <td class="tg-akyt">.9614</td>
   </tr>
   <tr>
-    <td class="tg-7x02">Fraz <span style="font-style:italic">et al.</span> [2]</td>
-    <td class="tg-akyt">0.7406</td>
-    <td class="tg-akyt">0.9807</td>
-    <td class="tg-akyt">0.9480</td>
-    <td class="tg-akyt">0.9747</td>
+    <td class="tg-7x02">Fraz et al.[2]</td>
+    <td class="tg-akyt">.7406</td>
+    <td class="tg-akyt">.9807</td>
+    <td class="tg-akyt">.9480</td>
+    <td class="tg-akyt">.9747</td>
   </tr>
   <tr>
-    <td class="tg-7x02">Roychowdhury <span style="font-style:italic">et al.</span> [3]</td>
-    <td class="tg-akyt">0.7249</td>
-    <td class="tg-qpkk">0.9830</td>
-    <td class="tg-akyt">0.9519</td>
-    <td class="tg-akyt">0.9620</td>
+    <td class="tg-7x02">Roychowdhury et al.[3]</td>
+    <td class="tg-akyt">.7249</td>
+    <td class="tg-qpkk"><b>.9830</b></td>
+    <td class="tg-akyt">.9519</td>
+    <td class="tg-akyt">.9620</td>
   </tr>
   <tr>
-    <td class="tg-7x02">Li <span style="font-style:italic">et al.</span> [4]</td>
-    <td class="tg-akyt">0.7569</td>
-    <td class="tg-akyt">0.9816</td>
-    <td class="tg-akyt">0.9527</td>
-    <td class="tg-akyt">0.9738</td>
+    <td class="tg-7x02">Li et al.[4]</td>
+    <td class="tg-akyt">.7569</td>
+    <td class="tg-akyt">.9816</td>
+    <td class="tg-akyt">.9527</td>
+    <td class="tg-akyt">.9738</td>
   </tr>
   <tr>
     <td class="tg-7x02">Liskowski and Krawiec [5]</td>
-    <td class="tg-akyt">0.7520</td>
-    <td class="tg-akyt">0.9806</td>
-    <td class="tg-akyt">0.9515</td>
-    <td class="tg-akyt">0.9710</td>
+    <td class="tg-akyt">.7520</td>
+    <td class="tg-akyt">.9806</td>
+    <td class="tg-akyt">.9515</td>
+    <td class="tg-akyt">.9710</td>
   </tr>
   <tr>
     <td class="tg-7x02">This work</td>
-    <td class="tg-qpkk">0.8039</td>
+    <td class="tg-qpkk"><b>0.8039</td>
     <td class="tg-akyt">0.9804</td>
-    <td class="tg-qpkk">0.9576</td>
-    <td class="tg-qpkk">0.9821</td>
+    <td class="tg-qpkk"><b>0.9576</td>
+    <td class="tg-qpkk"><b>0.9821</td>
   </tr>
 </table>
 
