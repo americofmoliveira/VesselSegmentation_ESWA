@@ -20,7 +20,7 @@ The proposed method was evaluated in three databases: [DRIVE](https://www.isi.uu
 
 <table class="tg">
   <tr>
-    <th class="tg-lm6i" rowspan="2"><br>Method </th>
+    <th class="tg-lm6i" col width="210" rowspan="2"><br>Method </th>
     <th class="tg-lm6i" colspan="4">DRIVE</th>
   </tr>
   <tr>
@@ -76,7 +76,7 @@ The proposed method was evaluated in three databases: [DRIVE](https://www.isi.uu
 
 <table class="tg">
   <tr>
-    <th class="tg-lm6i" rowspan="2"><br>Method </th>
+    <th class="tg-lm6i" col width="210" rowspan="2"><br>Method </th>
     <th class="tg-lm6i" colspan="4">STARE</th>
   </tr>
   <tr>
@@ -200,6 +200,10 @@ If you find this work useful, please, cite our paper:
 
 Oliveira, A. F. M., Pereira, S. R. M., & Silva, C. A. B. (2018). Retinal Vessel Segmentation based on Fully Convolutional Neural Networks. Expert Systems with Applications.
 
+## Contact
+
+For information related with the paper, please feel free to contact me (americofmoliveira@gmail.com) or Prof. Carlos A. Silva (csilva@dei.uminho.pt).
+
 ## Bibliography
 
 [1] Soares, J. V., Leandro, J. J., Cesar, R. M., Jelinek, H. F., & Cree, M. J. (2006). Retinal vessel segmentation using the 2-D Gabor wavelet and supervised classification. IEEE Transactions on medical Imaging, 25(9), 1214-1222.
@@ -213,7 +217,3 @@ Oliveira, A. F. M., Pereira, S. R. M., & Silva, C. A. B. (2018). Retinal Vessel 
 [5] Liskowski, P., & Krawiec, K. (2016). Segmenting retinal blood vessels with deep neural networks. IEEE transactions on medical imaging, 35(11), 2369-2380.
 
 [6] Zhang, J., Chen, Y., Bekkers, E., Wang, M., Dashtbozorg, B., & ter Haar Romeny, B. M. (2017). Retinal vessel delineation using a brain-inspired wavelet transform and random forest. Pattern Recognition, 69, 107-123.
-
-## Contact
-
-For information related with the paper, please feel free to contact me (americofmoliveira@gmail.com) or Prof. Carlos A. Silva (csilva@dei.uminho.pt).
