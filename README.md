@@ -13,18 +13,10 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
 ![Architecture](https://github.com/americofmoliveira/VesselSegmentation_ESWA/blob/master/resources/architecture/1b.png)
 
 ## Results
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-lm6i{font-weight:bold;font-size:11px;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-7x02{font-size:11px;border-color:inherit;text-align:right;vertical-align:top}
-.tg .tg-akyt{font-size:11px;border-color:inherit;vertical-align:top}
-.tg .tg-qpkk{font-weight:bold;font-size:11px;border-color:inherit;vertical-align:top}
-</style>
+
 <table class="tg">
   <tr>
-    <th class="tg-lm6i" rowspan="2"><br>Method (year)</th>
+    <th class="tg-lm6i" rowspan="2"><br>Method </th>
     <th class="tg-lm6i" colspan="4">DRIVE</th>
   </tr>
   <tr>
@@ -34,42 +26,42 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
     <td class="tg-lm6i">AUC</td>
   </tr>
   <tr>
-    <td class="tg-7x02">Soares <span style="font-style:italic">et al.</span> (2006)</td>
+    <td class="tg-7x02">Soares <span style="font-style:italic">et al.</span> [1]</td>
     <td class="tg-akyt">0.7332</td>
     <td class="tg-akyt">0.9782</td>
     <td class="tg-akyt">0.9466</td>
     <td class="tg-akyt">0.9614</td>
   </tr>
   <tr>
-    <td class="tg-7x02">Fraz <span style="font-style:italic">et al.</span> (2012)</td>
+    <td class="tg-7x02">Fraz <span style="font-style:italic">et al.</span> [2]</td>
     <td class="tg-akyt">0.7406</td>
     <td class="tg-akyt">0.9807</td>
     <td class="tg-akyt">0.9480</td>
     <td class="tg-akyt">0.9747</td>
   </tr>
   <tr>
-    <td class="tg-7x02">Roychowdhury <span style="font-style:italic">et al.</span> (2015)</td>
+    <td class="tg-7x02">Roychowdhury <span style="font-style:italic">et al.</span> [3]</td>
     <td class="tg-akyt">0.7249</td>
     <td class="tg-qpkk">0.9830</td>
     <td class="tg-akyt">0.9519</td>
     <td class="tg-akyt">0.9620</td>
   </tr>
   <tr>
-    <td class="tg-7x02">Li <span style="font-style:italic">et al.</span> (2016)</td>
+    <td class="tg-7x02">Li <span style="font-style:italic">et al.</span> [4]</td>
     <td class="tg-akyt">0.7569</td>
     <td class="tg-akyt">0.9816</td>
     <td class="tg-akyt">0.9527</td>
     <td class="tg-akyt">0.9738</td>
   </tr>
   <tr>
-    <td class="tg-7x02">Liskowski and Krawiec (2016)</td>
+    <td class="tg-7x02">Liskowski and Krawiec [5]</td>
     <td class="tg-akyt">0.7520</td>
     <td class="tg-akyt">0.9806</td>
     <td class="tg-akyt">0.9515</td>
     <td class="tg-akyt">0.9710</td>
   </tr>
   <tr>
-    <td class="tg-7x02">This work (2018)</td>
+    <td class="tg-7x02">This work</td>
     <td class="tg-qpkk">0.8039</td>
     <td class="tg-akyt">0.9804</td>
     <td class="tg-qpkk">0.9576</td>
