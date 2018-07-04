@@ -14,6 +14,8 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
 
 ## Results
 
+The proposed method was evaluated in three databases: [DRIVE](https://www.isi.uu.nl/Research/Databases/DRIVE/), [STARE](http://cecas.clemson.edu/~ahoover/stare/), and [CHASE_DB1](https://blogs.kingston.ac.uk/retinal/chasedb1/). Below you can find a brief comparison between our method and other the state of the art works. For a more detailed analysis, please refer to the manuscript.
+
 <table class="tg">
   <tr>
     <th class="tg-lm6i" rowspan="2"><br>Method </th>
