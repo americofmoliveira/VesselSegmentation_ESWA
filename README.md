@@ -28,6 +28,8 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
 
 </table>
 
+| Soares et al. [1]    | 0.7332 | 0.9782 | 0.9466  | 0.9614  
+
 ## Contents
 
 The materials in this repository are organized as follows:
