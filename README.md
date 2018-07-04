@@ -20,10 +20,10 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
     <th class="tg-lm6i" colspan="4">DRIVE</th>
   </tr>
   <tr>
-    <td class="tg-lm6i">Sn</td>
-    <td class="tg-lm6i">Sp</td>
-    <td class="tg-lm6i">Acc</td>
-    <td class="tg-lm6i">AUC</td>
+    <td class="tg-lm6i"><div align="center">Sn</td>
+    <td class="tg-lm6i"><div align="center">Sp</td>
+    <td class="tg-lm6i"><div align="center">Acc</td>
+    <td class="tg-lm6i"><div align="center">AUC</td>
   </tr>
   <tr>
     <td class="tg-7x02"><div align="left">Soares et al. [1]</td>
@@ -66,6 +66,61 @@ The retinal vascular condition is a reliable biomarker of several ophthalmologic
     <td class="tg-akyt">.9804</td>
     <td class="tg-qpkk"><b>.9576</td>
     <td class="tg-qpkk"><b>.9821</td>
+  </tr>
+</table>
+
+<table class="tg">
+  <tr>
+    <th class="tg-lm6i" rowspan="2"><br>Method </th>
+    <th class="tg-lm6i" colspan="4">STARE</th>
+  </tr>
+  <tr>
+    <td class="tg-lm6i"><div align="center">Sn</td>
+    <td class="tg-lm6i"><div align="center">Sp</td>
+    <td class="tg-lm6i"><div align="center">Acc</td>
+    <td class="tg-lm6i"><div align="center">AUC</td>
+  </tr>
+  <tr>
+    <td class="tg-7x02"><div align="left">Soares et al. [1]</td>
+    <td class="tg-akyt">.7207</td>
+    <td class="tg-akyt">.9747</td>
+    <td class="tg-akyt">.9480</td>
+    <td class="tg-akyt">.9671</td>
+  </tr>
+  <tr>
+    <td class="tg-7x02"><div align="left">Fraz et al. [2]</td>
+    <td class="tg-akyt">.7548</td>
+    <td class="tg-akyt">.9763</td>
+    <td class="tg-akyt">.9534</td>
+    <td class="tg-akyt">.9768</td>
+  </tr>
+  <tr>
+    <td class="tg-7x02"><div align="left">Roychowdhury et al. [3]</td>
+    <td class="tg-akyt">.7719</td>
+    <td class="tg-qpkk">.9726</td>
+    <td class="tg-akyt">.9515</td>
+    <td class="tg-akyt">.9688</td>
+  </tr>
+  <tr>
+    <td class="tg-7x02"><div align="left">Li et al. [4]</td>
+    <td class="tg-akyt">.7726</td>
+    <td class="tg-akyt">.9844</td>
+    <td class="tg-akyt">.9628</td>
+    <td class="tg-akyt">.9879</td>
+  </tr>
+  <tr>
+    <td class="tg-7x02"><div align="left">Liskowski and Krawiec [5]</td>
+    <td class="tg-akyt">.8145</td>
+    <td class="tg-akyt"><b>.9866</td>
+    <td class="tg-akyt"><b>.9696</td>
+    <td class="tg-akyt">.9880</td>
+  </tr>
+  <tr>
+    <td class="tg-7x02"><div align="left">This work</td>
+    <td class="tg-qpkk"><b>.8315</td>
+    <td class="tg-akyt">.9858</td>
+    <td class="tg-qpkk">.9694</td>
+    <td class="tg-qpkk"><b>.9905</td>
   </tr>
 </table>
 
