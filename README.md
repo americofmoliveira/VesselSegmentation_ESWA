@@ -186,6 +186,26 @@ The materials in this repository are organized as follows:
 
 - `statistical_comparison`: Statistical comparison between our method and other state-of-the-art works that have made their segmentations publicly available.
 
+## Citation
+
+If you find this work useful, please, cite our paper:
+
+Oliveira, A. F. M., Pereira, S. R. M., & Silva, C. A. B. (2018). Retinal Vessel Segmentation based on Fully Convolutional Neural Networks. Expert Systems with Applications.
+
+## Bibliography
+
+[1] Soares, J. V., Leandro, J. J., Cesar, R. M., Jelinek, H. F., & Cree, M. J. (2006). Retinal vessel segmentation using the 2-D Gabor wavelet and supervised classification. IEEE Transactions on medical Imaging, 25(9), 1214-1222.
+
+[2] Fraz, M. M., Remagnino, P., Hoppe, A., Uyyanonvara, B., Rudnicka, A. R., Owen, C. G., & Barman, S. A. (2012). An ensemble classification-based approach applied to retinal blood vessel segmentation. IEEE Transactions on Biomedical Engineering, 59(9), 2538-2548.
+
+[3] Roychowdhury, S., Koozekanani, D. D., & Parhi, K. K. (2015). Blood vessel segmentation of fundus images by major vessel extraction and subimage classification. IEEE journal of biomedical and health informatics, 19(3), 1118-1128.
+
+[4] Li, Q., Feng, B., Xie, L., Liang, P., Zhang, H., & Wang, T. (2016). A Cross-Modality Learning Approach for Vessel Segmentation in Retinal Images. IEEE Trans. Med. Imaging, 35(1), 109-118.
+
+[5] Liskowski, P., & Krawiec, K. (2016). Segmenting retinal blood vessels with deep neural networks. IEEE transactions on medical imaging, 35(11), 2369-2380.
+
+[6] Zhang, J., Chen, Y., Bekkers, E., Wang, M., Dashtbozorg, B., & ter Haar Romeny, B. M. (2017). Retinal vessel delineation using a brain-inspired wavelet transform and random forest. Pattern Recognition, 69, 107-123.
+
 ## Contact
 
 For information related with the paper, please feel free to contact me (americofmoliveira@gmail.com) or Prof. Carlos A. Silva (csilva@dei.uminho.pt).
