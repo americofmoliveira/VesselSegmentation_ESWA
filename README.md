@@ -2,7 +2,9 @@
 
 This repository contains materials supporting the paper: Oliveira, Américo, et al., "Retinal vessel segmentation based on Fully Convolutional Neural Networks", Expert Systems with Applications, Volume 112, 1 December 2018, Pages 229-242. <br />
 
-<p align="center"> ([Oficial version](https://doi.org/10.1016/j.eswa.2018.06.034) | [ArXiv pre-print version](https://arxiv.org/abs/1812.07110))</p>
+<p align="center"> 
+([Oficial version](https://doi.org/10.1016/j.eswa.2018.06.034) | [ArXiv pre-print version](https://arxiv.org/abs/1812.07110))
+</p>
 
 ## Abstract
 
