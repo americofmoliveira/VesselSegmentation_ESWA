@@ -1,6 +1,6 @@
 # Retinal vessel segmentation based on Fully Convolutional Neural Networks
 
-This repository contains materials supporting the paper: Oliveira, Américo, et al., "Retinal vessel segmentation based on Fully Convolutional Neural Networks", Expert Systems with Applications, Volume 112, December 2018. [[Free version](https://arxiv.org/abs/1812.07110)]
+This repository contains materials supporting the paper: Oliveira, Américo, et al., "Retinal vessel segmentation based on Fully Convolutional Neural Networks", Expert Systems with Applications, Volume 112, 1 December 2018, Pages 229-242. [[ArXiv pre-print version](https://arxiv.org/abs/1812.07110)]
 
 ## Abstract
 
