@@ -186,7 +186,7 @@ The proposed method was evaluated in three databases: [DRIVE](https://www.isi.uu
 
 The materials in this repository are organized as follows:
 
-- `code`: Code required to test our model.
+- `code`: Code required to test our model, including calibration files -- files containing the statistical parameters (mean and standard deviation) to perform standardization on each dataset.
 
 - `folds_constitution`: Since there is no explicit division between training and test sets for the STARE and CHASE_DB1 databases, we used *5*-fold and *4*-fold cross-validation, respectively, to evaluate the results in these cases. Here we show the constitution of the folds, so that future works can replicate our evaluation conditions.
 
@@ -195,6 +195,8 @@ The materials in this repository are organized as follows:
 - `resources`: Mask, probability map outputted by the model, and final binary segmentation for each image. 
 
 - `statistical_comparison`: Statistical comparison between our method and other state-of-the-art works that have made their segmentations publicly available.
+
+- `supplementary_materials`: Quotable document summarizing the metrics obtained by image and dataset.
 
 ## Citation
 
